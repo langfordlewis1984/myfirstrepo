@@ -10,14 +10,14 @@ I can also
  1. add a [link](https://www.linkedin.com/in/langfordlewis/)
  2. add an image
 
-![funny greyhound](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0U__lCYhBzVl6QU7L0TURjYGSoNOU3LrAQ&usqp=CAU))
+![funny greyhound](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0U__lCYhBzVl6QU7L0TURjYGSoNOU3LrAQ&usqp=CAU)
 
 >"He can even make a blockquote to grab readers' attention"
 
 ✨Magic ✨
 
 | LANGUAGE | FUNCTION | IN LAYMANS TERMS
-| ------ | ------ |
+| ------ | ------ | ------ |
 | HTML |  HyperText Markup Language |  The bones, structure and foundations. The _content_ |
 | CSS | Cascading Style Sheets |  The skin, look and format. The _style_ |
 | JavaScript | client-side script to interact with the user  |  The functionality and the actions. The _interactions_ |
