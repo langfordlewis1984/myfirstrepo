@@ -24,7 +24,7 @@ I can also
 | JavaScript | client-side script to interact with the user  |  The functionality and the actions. The _interactions_ |
 | Markdown | lightweight markup language |  Future-proof and universal markup language. |  
 
-<center> ~~the world is flat~~ </center>
+~~the world is flat~~
 
 😆
 
