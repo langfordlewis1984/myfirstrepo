@@ -1,5 +1,6 @@
 # myfirstrepo
-### I **just** learned _Markdown_
+I **just** learned _Markdown_  
+
 I can  
  * _Italicize_
  * **Bold**
